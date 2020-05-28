@@ -2,9 +2,3 @@
 .Rhistory
 .RData
 .Ruserdata
-data/*
-!data/.gitkeep 
-rda/*
-!rda/.gitkeep 
-figs/*
-!figs/.gitkeep 
